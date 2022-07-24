@@ -29,9 +29,7 @@ public class Pas2  { //запускаем содержимое класса  Pas2
             ArrayPriory.add(y);
         }
     }
-
-
-    // Генерируем имена
+    // Генерируем  имена
     static ArrayList<ArrayList<Character>> ArrayName = new ArrayList<>();  // Cгенерировали коллекцию для внесения инициалов
     int rand;
     Random name = new Random();
